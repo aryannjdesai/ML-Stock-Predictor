@@ -1,0 +1,49 @@
+
+==================================================
+Training Session: 2025-07-01 22:20:24.113033
+Epochs: 100, LR: 0.0001, Best Loss: 0.6762
+Accuracy: 0.5333
+UP predictions: 48.9%
+Prob range: 0.291 - 0.517
+
+==================================================
+Training Session: 2025-07-01 22:21:11.451917
+Epochs: 100, LR: 0.0001, Best Loss: 0.6743
+Accuracy: 0.5444
+UP predictions: 41.1%
+Prob range: 0.251 - 0.514
+
+==================================================
+Training Session: 2025-07-02 22:02:18.048153
+Epochs: 100, LR: 0.0001, Best Loss: 0.6708
+Accuracy: 0.5333
+UP predictions: 52.2%
+Prob range: 0.203 - 0.522
+
+==================================================
+Training Session: 2025-07-02 22:03:25.940707
+Epochs: 100, LR: 0.0001, Best Loss: 0.6752
+Accuracy: 0.5833
+UP predictions: 44.0%
+Prob range: 0.154 - 0.527
+
+==================================================
+Training Session: 2025-07-02 22:03:58.453037
+Epochs: 100, LR: 0.0001, Best Loss: 0.6702
+Accuracy: 0.5444
+UP predictions: 55.6%
+Prob range: 0.192 - 0.525
+
+==================================================
+Training Session: 2025-07-02 22:06:15.089903
+Epochs: 1000, LR: 0.0001, Best Loss: 0.6372
+Accuracy: 0.5556
+UP predictions: 52.2%
+Prob range: 0.089 - 0.631
+
+==================================================
+Training Session: 2025-07-02 22:06:49.468419
+Epochs: 100, LR: 1e-05, Best Loss: 0.6343
+Accuracy: 0.5333
+UP predictions: 47.8%
+Prob range: 0.083 - 0.599
